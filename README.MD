@@ -1,5 +1,4 @@
-![GLobetrotter logo](https://drive.google.com/file/d/1JCaHqaw3kvDrZpvYGIdLiW149xzy7g3G/view?usp=sharing)
-
+<img src="https://drive.google.com/file/d/1JCaHqaw3kvDrZpvYGIdLiW149xzy7g3G/view?usp=sharing" alt="Globetrotter Logo" width="200">
 
 JAVA 17
 
