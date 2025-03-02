@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: globetrotter
+    runtime: docker
+    repo: https://github.com/yogesh-1-2/globetrotter
+    branch: master
+    plan: free
+    dockerContext: .
+    dockerfilePath: Dockerfile
+    envVars:
+      - key: PORT
+        value: "8081"
+    healthCheckPath: /
